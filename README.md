@@ -2,7 +2,7 @@
 organize golang  apple pay ,google pay  and other api 
 
 
-## receipt-data凭证请求后返回的内容字段翻译
+## receipt-data凭证请求后返回的内容字段翻译 ~
 
 "receipt_type":"Production", //凭证类型 沙箱或正式
 
